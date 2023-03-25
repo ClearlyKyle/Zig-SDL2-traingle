@@ -1,8 +1,6 @@
 # SDL2 with Zig
 
-Output:
-Image
-![RGB Triangle](tmp.jpg)
+![RGB Triangle](https://raw.githubusercontent.com/ClearlyKyle/Zig-SDL2-traingle/master/triangle.PNG)
 
 ## How to Run
 ### Windows
